@@ -1,0 +1,99 @@
+
+
+
+
+
+
+/* #body {
+    background-color: #3c3835;
+} */
+
+/* h1 {
+    color: #ce220e;
+    cursor: default;
+}
+.verde::after {
+    color: #659e67;
+    content: " VERDE.";
+    font-weight: bold;
+    font-size: 1.1rem;
+    cursor: progress;
+    background-color: #e7b936;
+}
+
+.buttons button {
+    background-color: #659e67;
+    color: #3c3835;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 250ms;
+}
+button.btn-tooltip-azul {
+    background-color: #418588;
+}
+
+button:hover {
+    border-bottom: 2px solid #a89982;
+}
+
+.fallaste {
+    opacity: 0;
+    position: absolute;
+    cursor: default;
+}
+div button:focus ~ .fallaste {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    opacity: 1;
+    transition: 0s;
+    bottom: 0px;
+    left: 0px;
+    border-bottom: none;
+}
+button:hover {
+    border-bottom: 2px solid #e7b936;
+    border-right: 2px solid #e7b936;
+    background-color: #418588;
+    translate: 0px -5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #e7b936;
+}
+@media (orientation: landscape) {
+    #body {
+        align-items: flex-start;
+        width: 450px;
+    }
+    .buttons {
+        position: absolute;
+        align-self: flex-end;
+        left: 70vw;
+        font-size: 2rem;
+        flex-direction: row;
+    }
+    button:hover {
+        border-bottom: 2px solid #e7b936;
+        border-right: 2px solid #e7b936;
+        background-color: #418588;
+        translate: 0px -5px;
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #e7b936;
+    }
+}
+.Dashboard_nameGradient__hkeFO {
+    font-size: 4rem;
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(45deg, #418588, #659e67);
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-size: 120%;
+}
+ */

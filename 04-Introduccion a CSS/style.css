@@ -1,0 +1,24 @@
+body {
+  font-family: monospace;
+  background-color: #282828;
+  font-family: monospace;
+  color: #ebdbb2;
+}
+h1 {
+  color: #fb4934;
+  text-shadow: 1px 1px 2px black;
+}
+h2,
+h4 {
+  color: #fb4934;
+}
+h3,
+a {
+  color: #ffc400;
+}
+#elemento-1 {
+  color: #fb4934;
+}
+.unordered-list {
+    font-size: 2rem;
+}

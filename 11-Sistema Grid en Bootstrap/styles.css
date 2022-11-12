@@ -1,0 +1,16 @@
+.container div{
+    margin: 0.25rem;
+}
+
+.col {
+    background-color: chartreuse;
+}
+.col-md {
+    background-color: darkgoldenrod;
+}
+.col-lg {
+    background-color: brown;
+}
+.col-xl {
+    background-color: aquamarine;
+}
